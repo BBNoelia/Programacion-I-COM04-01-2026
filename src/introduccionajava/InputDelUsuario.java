@@ -20,4 +20,6 @@ public class InputDelUsuario {
 
 }
 //Esto es esta comentado para hacer un push
-//Esto es un comentario porq no use push use git add .
+//1 paso - hacer un git add . para guardar al archivo
+// 2 paso - hacer un git commit 
+//3 paso git push para que los cambios se vean en GitHub 
